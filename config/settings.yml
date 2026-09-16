@@ -1,0 +1,10 @@
+# Application settings
+#
+# Phase 2: change `port` to a number of your own choosing.
+# Phase 3: change `timeout_seconds` on a branch.
+
+app_name: git-class-lab
+version: 0.1.0
+port: 8080
+timeout_seconds: 30
+debug: false
