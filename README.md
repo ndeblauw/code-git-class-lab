@@ -1,4 +1,4 @@
-# Git Class Lab
+# Git Afternoon Class Lab
 
 A deliberately messy repository. Things will break. That is the point.
 
