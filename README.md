@@ -1,4 +1,4 @@
-# Git Afternoon Class Lab
+# Git Afternoon Class on Lab Happiness
 
 A deliberately messy repository. Things will break. That is the point.
 
