@@ -1,0 +1,3 @@
+# Normalise line endings, so Windows, macOS and Linux students see the same
+# diffs. Without this, the first exercise drowns in whitespace noise.
+* text=auto eol=lf
